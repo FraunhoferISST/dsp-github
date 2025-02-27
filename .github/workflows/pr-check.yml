@@ -7,4 +7,4 @@ on:
 
 jobs:
   trigger-workflow:
-    uses: FraunhoferISST/dsp-github/.github/workflows/scan-pr-title.yml@main
+    uses: eclipse-dataspace-protocol-base/.github/.github/workflows/templates/scan-pr-title.yml@main
